@@ -29,7 +29,7 @@ Each team is tasked with getting their ball from the instance portal of Blackroc
 *How to run:*
 - Explain the rules as above.
 - Ensure each player has inventory space to receive the ball.
-- Have each team split out in to different voice chat channels and give them 5-10 minutes (optional: make use of raid timers) to discuss their strategy and ask for any clarifications of the rules.
+- Have each team split out into different voice chat channels and give them 5-10 minutes (optional: make use of raid timers) to discuss their strategy and ask for any clarifications of the rules.
 - Place your character at the Blackrock Spire portal.
 - Confirm that each team is prepared, and then start a 5-10 second timer to begin the game.
 - Use the game logs to see which ball you receive first and declare the winning team.

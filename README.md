@@ -4,7 +4,7 @@ So, your guild has started to raid log between content releases and you're looki
 Welcome to Sagrell's Eastern Kingdoms tour for World of Warcraft Classic!
 
 **Upfront:**
-The tour was designed for an Alliance group. While the tour does go to Undercity, it only goes to the outside areas and won't likely incur PvP unless you hang around for longer than a few minutes. The tour does go through both Ironforge and Stormwind.
+The tour was designed for an Alliance group, some veterans of Vanilla/retail and some brand new to WoW, and to only include lore up to Classic's timeline. While the tour does go to Undercity, it only goes to the outside areas and won't likely incur PvP unless you hang around for longer than a few minutes. The tour does go through both Ironforge and Stormwind.
 
 The information comes predominantly from https://wowwiki.fandom.com/ with some edits. I did not write the majority of the information myself and cannot guarantee the complete accuracy of the information contained within. I considered adding a map, but might be a fair bit of work to maintain if new locations are added/removed, or if the route is altered.
 
