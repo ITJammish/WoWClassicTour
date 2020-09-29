@@ -1,0 +1,9 @@
+[Home](../index.md)
+**The Dark Portal and Nethergarde Keep**
+The Dark Portal was created by a joint effort between Medivh, possessed by the Fallen Titan Sargeras, and the warlocks of the Shadow Council, which allowed the Horde to invade the world of Azeroth. The Portal bridged the distance between the worlds of Azeroth and Draenor, and it was large enough that individuals might pass through it. Gul'dan immediately dispatched orc scouts through the Portal in preparation for the coming invasion. After the Portal was widened, the armies of the orcs poured through it into the unsuspecting Kingdom of Azeroth, beginning the First War.
+
+Following the defeat of the Horde in the Second War, the Dark Portal was captured by the forces of the Alliance of Lordaeron. Hoping to end the threat of the orcs, the Archmage Khadgar attempted to close the gateway to Draenor. While the structure was damaged/destroyed, the link between the worlds remained as a tear in the fabric of reality. To keep watch over the remnants of the Portal, Nethergarde Keep was constructed.
+
+Khadgar was master of Nethergarde until the reconstruction of the Dark Portal by Ner'zhul, and his clans, on Draenor. When the orcs began attacking Azeroth once more, Khadgar and his friends Turalyon, Danath Trollbane, Alleria Windrunner, and Kurdran Wildhammer rallied their troops and led the Alliance Expedition through the Dark Portal in order to destroy the Horde and seal off the Portal once and for all. When Ner'zhul opened more portals, which began to tear Draenor apart, the five leaders remained behind to seal it from Draenor in order that the backlash would not affect their beloved world of Azeroth.
+
+For twenty years thereafter, the Dark Portal was silent.

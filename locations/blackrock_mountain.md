@@ -1,0 +1,9 @@
+[Home](../index.md)
+**Blackrock Mountain**
+The mountain is actually a volcano that was created at the end of the War of the Three Hammers when the Dark Iron dwarf Lord, Thaurissan, accidentally summoned Ragnaros the Firelord from his prison beneath the earth. The power unleashed by his "rebirth" was so massive it shattered a large section of the Redridge Mountains creating the areas now known as the Searing Gorge and Burning Steppes. Ragnaros enslaved the Dark Iron dwarf clan, and they have dug many tunnels and created a huge underground city in the depths of the mountain. Dwarves would later name this mountain Blackrock Spire. The name Blackrock Mountain and Blackrock Spire predates the coming of the orcs. Blackrock Spire is the part of Blackrock Mountain that is above ground, and Blackrock Depths is the parts underneath the mountain.
+
+During the events of the First War, the Blackrock clan of orcs had taken over the upper reaches of the mountain. Led by chieftain Rend Blackhand, they eventually struck a deal with the current head of the black dragonflight, Nefarian.
+
+Both Ragnaros and Nefarian now wage a brutal war for supremacy and control of the mountain. Ragnaros controls his Dark Iron dwarves and their various machines and golems, as well as an army of elementals, beasts, and powerful lieutenants such as Baron Geddon, Garr, and Sulfuron. As an Elemental Lord, he has also gained the favor of the Twilight's Hammer. Nefarian controls the Blackrock tribe of orcs, a small army of trolls and ogres, as well as his dragon lieutenants and his latest invention, the chromatic dragonflight. Nefarian leads from his throne overlooking the mountain while Ragnaros leads from its very volcanic core.
+
+The two rivals both hope to raise a powerful army that can take over Azeroth. We are fortunate that they spend most of their efforts fighting each other and not the mortal races, for then we would surely be doomed...

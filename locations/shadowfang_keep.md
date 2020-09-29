@@ -1,0 +1,3 @@
+[Home](../index.md)
+**Shadowfang Keep**
+Pyrewood Village is shadowed to the north by Shadowfang Keep, once a bastion of Alliance power but now the dark residence of a mad former mage of the Kirin Tor, named Arugal. The worgen that stalk the Keep, as well as the cursed villagers of Pyrewood, are the doings of this madman. During the Third War, Arugal made these worgen as allies but they could not be controlled and turned on him and the other soldiers. He went mad after this and now accepts them as his "children." His worgen run rampant throughout much of the forest.

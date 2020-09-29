@@ -1,0 +1,3 @@
+[Home](../index.md)
+**Durnholde Keep**
+After the Second War, Durnholde served as the command center of the orc internment camps. The future Warchief Thrall was kept prisoner here during his childhood before breaking free and making an escape. The fortress was initially ruled by Lieutenant General Aedelas Blackmoore, a self-absorbed drunkard who had used Thrall to obtain greater rank and prestige. After he slew Blackmoore in combat, Thrall destroyed Durnholde and ended the internment camp system.
