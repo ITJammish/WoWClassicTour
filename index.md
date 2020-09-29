@@ -1,7 +1,7 @@
 Tour route:
 - [Kharanos](/locations/kharanos.md)
-- [Gnomeregan](/locations/Gnomeregan.md)
-- [Ironforge](/locations/Ironforge.md)
+- [Gnomeregan](/locations/gnomeregan.md)
+- [Ironforge](/locations/ironforge.md)
 - [Old Ironforge/Hall of Thanes](/locations/hall_of_thanes.md)
 - [Deeprun Tram](/locations/deeprun_tram.md)
 - [Stormwind](/locations/stormwind.md)
