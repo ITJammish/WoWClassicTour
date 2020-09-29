@@ -4,7 +4,7 @@ So, your guild has started to raid log between content releases and you're looki
 Welcome to Sagrell's Eastern Kingdoms tour for World of Warcraft Classic!
 
 **Upfront:**
-The tour was designed for an Alliance group, some veterans of Vanilla/retail and some brand new to WoW, and to only include lore up to Classic's timeline. While the tour does go to Undercity, it only goes to the outside areas and won't likely incur PvP unless you hang around for longer than a few minutes. The tour does go through both Ironforge and Stormwind.
+The tour was designed for an Alliance group, some veterans of Vanilla/retail and some brand new to WoW, and only includes lore up to Classic's timeline. While the tour does go to Undercity, it only goes to the outside areas and won't likely incur PvP unless you hang around for longer than a few minutes. The tour does go through both Ironforge and Stormwind.
 
 The information comes predominantly from https://wowwiki.fandom.com/ with some edits. I did not write the majority of the information myself and cannot guarantee the complete accuracy of the information contained within. I considered adding a map, but might be a fair bit of work to maintain if new locations are added/removed, or if the route is altered.
 
@@ -24,7 +24,7 @@ If you wish to make changes to the content or add your own notes it's recommende
 **How to use the guide:**
 As recommended above; read through the material briefly to start to give yourself an idea of pacing, and the route your group will take. The guide itself is very simple with an ordered list of locations to visit and a text script for each location.
 
-Consider any optional activities and prepare your group before hand making sure you have the required items. Also note some areas in this tour are high level, so ensure some of your members do bring their gear in case of combat.
+Consider any optional activities and prepare your group beforehand making sure you have the required items. Also note some areas in this tour are high level, so ensure some of your members do bring their gear in case of combat.
 
 **Tips for running the tour:**
 - Suggest turning on/up the in-game music to enhance each area as you pass through.
