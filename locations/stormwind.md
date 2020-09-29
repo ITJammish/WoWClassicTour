@@ -4,4 +4,7 @@ Stormwind City is located north of Elwynn Forest on the Eastern Kingdom's northw
 
 Stormwind firmly backs the Alliance, and its knights, priests, paladins, and mages served in the three wars against the Horde. Primarily a human settlement, a fair number of high elves, Ironforge dwarves, and even a few night elves and gnomes dwell here as well. Stormwind City is the home of the Academy of Arcane Sciences, the only remaining school of wizardry in the east, and the Cathedral of Light, the philosophical capital for those who follow the Holy Light. These edifices draw healers, priests, paladins, and mages to the city, all of whom bolster Stormwind’s military.
 
-DRINK: Old town at Pig and Whistle Tavern.
+Optional sub-locations to visit:
+Old town: Pig and Whistle Tavern + SLI head quarters + Officer lounge.
+The Park + Moonwell hot tub.
+The Mage Quarter: below The Slaughtered Lamb.
