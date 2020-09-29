@@ -1,7 +1,7 @@
 **Azeroth Tour: Eastern Kingdoms**
 So, your guild has started to raid log between content releases and you're looking for something to do together. Why not take some down time, throw on some RP gear and see the sights around Eastern Kingdoms?
 
-Welcome to Sagrell's Eastern Kingdoms tour for World of Warcraft Classic!
+Welcome to the Eastern Kingdoms tour for World of Warcraft Classic!
 
 **Upfront:**
 The tour was designed for an Alliance group, some veterans of Vanilla/retail and some brand new to WoW, and only includes lore up to Classic's timeline. While the tour does go to Undercity, it only goes to the outside areas and won't likely incur PvP unless you hang around for longer than a few minutes. The tour does go through both Ironforge and Stormwind.
