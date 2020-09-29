@@ -1,5 +1,7 @@
 [Home](../index.md)
 **Caer Darrow**
+*Optional item: Spectral Essence (trinket)*
+
 The island where the ruined town of Caer Darrow now sits was long ago the keeping place of an ancient runestone, known as the Runestone of Caer Darrow. The runestone served as an ancient monolith sacred to the high elves of Quel'Thalas. The artifact is said to have been erected by elven druids, a description which provides the only indication in lore that any high elves ever followed a druidic path. Runestones were later changed to have served as a barrier so that the Burning Legion would be unaware of the high elves' arcane magic. The runestone that once rested here was taken and used by the orc warlock Gul’dan to create the Altars of Storms during the Second War.
 
 The island has also been the site of one or more human fortifications dating back to the days of the empire of Arathor.
